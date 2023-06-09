@@ -1,1 +1,1 @@
-# RepositorioHenry
+Repositorio de prueba para homework del módulo 2 de Henry
